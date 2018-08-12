@@ -1,0 +1,44 @@
+.head{
+	box-sizing: border-box;
+	width:1440px;
+	height:40px;
+	border-bottom: solid 1px rgb(204,204,204);
+	top: 0 ;
+	position:fixed;
+	padding:8px 4px 15px 15px;
+	background-color:white;
+}
+#up{
+	border-radius: 3px;
+    cursor: pointer;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+    transition: ease 0.6s;
+    background-color: #6288a5;
+    border: 1px solid #326891;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    line-height: 11px;
+    padding: 6px 9px 3px;
+	text-align:center;   
+	
+}
+.first{
+	margin-top:170px;
+	background-color:#fff;
+	
+}
+.one{
+	margin: 0 180px;
+}
+p{
+	font-family: nyt-imperial,georgia,'times new roman',times,serif;
+    font-size: 16px;
+	line-height: 4.6rem;   	 
+    vertical-align: baseline;
+	
+	box-sizing: border-box;
+	
+	
+}
